@@ -1,0 +1,95 @@
+App url's
+
+JENKIN URL
+
+http://localhost:8086/
+
+
+leaves n presence alles- https://people.zoho.in/alleswwtc/zp
+kasharma/Welcome
+https://people.zoho.in/alleswwtc/zp#home/dashboard
+
+All testing process, test plan, checklist, documentation
+https://wiki.salmon.com/pages/viewpage.action?spaceKey=SALTESTDEPT&title=Knowledge+Base
+
+https://www.govype.com/gb/en/customer/account/login/referer/aHR0cHM6Ly93d3cuZ292eXBlLmNvbS9nYi9lbi9jdXN0b21lci9hY2NvdW50L2luZGV4Lw%2C%2C/
+jai.prakash@wundermanthompson.com / Salmon@1111
+
+jira- jira.salmon.com 
+kasharma/Welcome@kap
+
+timesheet qics :
+https://qicsmilestones.qics.nl/html/#682/home
+
+kapil.sharma@wundermanthompson.com /admin@123
+
+leaves- https://wppcloud.sharepoint.com/sites/WTCWayofWorking2/QMS%20PMO/Forms/AllItems.aspx?id=%2Fsites%2FWTCWayofWorking2%2FQMS%20PMO%2FPMO%2F2020%2FProcess%20Documents%2FProcess%20Documents%20for%20New%20Hire%2FHoliday%20List%5F2020%2Epdf&originalPath=aHR0cHM6Ly93cHBjbG91ZC5zaGFyZXBvaW50LmNvbS86Zjovcy9XVENXYXlvZldvcmtpbmcyL0VrQi01WG1aU0xoTGhWdVNxakttc05VQl9aeGc0X2l1N1lwMm1DZDJDRkRGM1E%5FcnRpbWU9MkVFSkRfc20yRWc&parent=%2Fsites%2FWTCWayofWorking2%2FQMS%20PMO%2FPMO%2F2020%2FProcess%20Documents%2FProcess%20Documents%20for%20New%20Hire
+
+
+11 aug- restricted leave- tuesday
+16 Nov- bhaidooj (Monday)
+
+xray usage- https://wiki.salmon.com/display/SALTESTDEPT/Xray+Usage
+kasharma/ wel
+
+data base tables-  https://wiki.salmon.com/display/SALTESTDEPT/List+of+information+and+definitions+for+Websphere+Commerce+Database+Tables
+
+browser compatibility test - https://wiki.salmon.com/display/SALTESTDEPT/Salmon+Graded+Browser+Support
+
+Manual testing checklist- https://wiki.salmon.com/display/SALTESTDEPT/Test+Checklist
+
+Test documentation- https://wiki.salmon.com/display/SALTESTDEPT/Test+Documentation
+
+Mobile device testing- https://wiki.salmon.com/display/SALTESTDEPT/Devices+and+Tools
+https://wiki.salmon.com/display/SALTESTDEPT/Mobile+Device+Testing
+
+naming convention while raising n creating bugs, plans n tests-  https://wiki.salmon.com/pages/viewpage.action?pageId=11091956
+
+
+pycharm- 3.7(2018)
+python 3.7.2
+
+
+https://stackoverflow.com/questions/51617433/unable-to-run-robot-file-in-pycharm-windows
+udemy- it-support@innovationm.com / L&Dinnovationm
+
+
+leaves n presence alles- https://people.zoho.in/alleswwtc/zp
+kasharma/Welcome
+https://people.zoho.in/alleswwtc/zp#home/dashboard
+
+All testing process, test plan, checklist, documentation
+https://wiki.salmon.com/pages/viewpage.action?spaceKey=SALTESTDEPT&title=Knowledge+Base
+
+https://www.govype.com/gb/en/customer/account/login/referer/aHR0cHM6Ly93d3cuZ292eXBlLmNvbS9nYi9lbi9jdXN0b21lci9hY2NvdW50L2luZGV4Lw%2C%2C/
+jai.prakash@wundermanthompson.com / Salmon@1111
+
+jira- jira.salmon.com 
+kasharma/Welcome@kap
+
+timesheet qics :
+https://qicsmilestones.qics.nl/html/#682/home
+
+kapil.sharma@wundermanthompson.com /admin@123
+
+leaves- https://wppcloud.sharepoint.com/sites/WTCWayofWorking2/QMS%20PMO/Forms/AllItems.aspx?id=%2Fsites%2FWTCWayofWorking2%2FQMS%20PMO%2FPMO%2F2020%2FProcess%20Documents%2FProcess%20Documents%20for%20New%20Hire%2FHoliday%20List%5F2020%2Epdf&originalPath=aHR0cHM6Ly93cHBjbG91ZC5zaGFyZXBvaW50LmNvbS86Zjovcy9XVENXYXlvZldvcmtpbmcyL0VrQi01WG1aU0xoTGhWdVNxakttc05VQl9aeGc0X2l1N1lwMm1DZDJDRkRGM1E%5FcnRpbWU9MkVFSkRfc20yRWc&parent=%2Fsites%2FWTCWayofWorking2%2FQMS%20PMO%2FPMO%2F2020%2FProcess%20Documents%2FProcess%20Documents%20for%20New%20Hire
+
+
+11 aug- restricted leave- tuesday
+16 Nov- bhaidooj (Monday)
+
+xray usage- https://wiki.salmon.com/display/SALTESTDEPT/Xray+Usage
+kasharma/ wel
+
+data base tables-  https://wiki.salmon.com/display/SALTESTDEPT/List+of+information+and+definitions+for+Websphere+Commerce+Database+Tables
+
+browser compatibility test - https://wiki.salmon.com/display/SALTESTDEPT/Salmon+Graded+Browser+Support
+
+Manual testing checklist- https://wiki.salmon.com/display/SALTESTDEPT/Test+Checklist
+
+Test documentation- https://wiki.salmon.com/display/SALTESTDEPT/Test+Documentation
+
+Mobile device testing- https://wiki.salmon.com/display/SALTESTDEPT/Devices+and+Tools
+https://wiki.salmon.com/display/SALTESTDEPT/Mobile+Device+Testing
+
+naming convention while raising n creating bugs, plans n tests-  https://wiki.salmon.com/pages/viewpage.action?pageId=11091956
